@@ -1,7 +1,19 @@
-my playground regarding my food tracking tool
+My simple food tracking tool
 =============================================
 
-This is my playground around data handling. It will be used for my food tracking tool written with the help of GTK.
+This is my simple tool to track my food consumption. It will generate a comma seperated file and a human readable text file.
+
+Used widget set:
+
+	GTK3
+
+Used language:
+
+	C
+
+Used configuration reader:
+
+	libconfig
 
 
 Useful links
