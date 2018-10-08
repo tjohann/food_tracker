@@ -1,0 +1,9 @@
+# List of source files which contain translatable strings.
+
+lib/config.c
+lib/service.c
+lib/helper.c
+lib/libfood_tracker.h
+src/main.c
+src/gui.c
+src/common.h
