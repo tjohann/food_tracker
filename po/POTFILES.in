@@ -1,9 +1,9 @@
 # List of source files which contain translatable strings.
 
 lib/config.c
-lib/service.c
 lib/helper.c
-lib/libfood_tracker.h
+lib/food_tracker.c
+lib/libservice.h
 src/main.c
 src/gui.c
 src/common.h

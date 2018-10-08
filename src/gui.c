@@ -33,7 +33,6 @@ static GtkWidget *statusbar;
 /*
  * the "rest"
  */
-static GtkTooltips *tooltips;
 
 
 static gboolean
@@ -130,7 +129,6 @@ build_main_window(void)
 	*/
 
         // ------------------ tooltips --------------------
-	tooltips = gtk_tooltips_new();
 
 
 
